@@ -1,0 +1,14 @@
+.idea
+.vscode
+.pytest_cache
+
+*.pyc
+*.sqlite3
+
+venv
+env
+.venv
+.env
+
+media
+database
