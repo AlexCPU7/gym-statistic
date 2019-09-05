@@ -4,11 +4,15 @@
 
 *.pyc
 *.sqlite3
+*.log
+
+__pycache__/
 
 venv
 env
 .venv
 .env
 
-media
-database
+local.yaml
+media/
+database/

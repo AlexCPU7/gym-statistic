@@ -4,9 +4,16 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pylint = "*"
 
 [packages]
 aiohttp = "*"
+a = "*"
+aiohttp-jinja2 = "*"
+uvloop = "*"
+aioreloader = "*"
+yaml = "*"
+pyyaml = "*"
 
 [requires]
 python_version = "3.7"
